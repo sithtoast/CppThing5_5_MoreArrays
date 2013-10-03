@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5056F7BF93E6668E6CD55A78"
+               BuildableName = "C++ Thing 5.5 - More Arrays"
+               BlueprintName = "C++ Thing 5.5 - More Arrays"
+               ReferencedContainer = "container:C++ Thing 5.5 - More Arrays.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5056F7BF93E6668E6CD55A78"
+            BuildableName = "C++ Thing 5.5 - More Arrays"
+            BlueprintName = "C++ Thing 5.5 - More Arrays"
+            ReferencedContainer = "container:C++ Thing 5.5 - More Arrays.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
